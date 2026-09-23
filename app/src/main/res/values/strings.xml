@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">语音链路 Demo</string>
+    <string name="voice_demo_page_title">语音链路 Demo</string>
+    <string name="voice_demo_start">启动</string>
+    <string name="voice_demo_standby">待唤醒</string>
+    <string name="voice_demo_close">返回</string>
+    <string name="voice_demo_transcript_title">实时转写</string>
+    <string name="voice_demo_reply_title">星火回复 / TTS 播报</string>
+    <string name="voice_demo_empty_transcript">等待 SparkChain ASR 返回文本</string>
+    <string name="voice_demo_empty_reply">等待星火大模型回复</string>
+</resources>

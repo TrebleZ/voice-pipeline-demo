@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_primary_text">#FF071019</color>
+    <color name="button_outline_text">#FF6E5521</color>
+    <color name="shell_text_primary">#FF20394A</color>
+    <color name="shell_text_secondary">#FF5B7483</color>
+    <color name="notice_warm_text">#FFD18300</color>
+    <color name="notice_cool_text">#FF3475D1</color>
+</resources>

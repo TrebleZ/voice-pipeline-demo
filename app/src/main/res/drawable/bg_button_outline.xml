@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 描边按钮背景：用于浅色 CTA，按下时提高黄色饱和度。 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"><shape android:shape="rectangle"><solid android:color="#FFE59A" /><corners android:radius="10dp" /><stroke android:width="1dp" android:color="#E8B63E" /></shape></item>
+    <item><shape android:shape="rectangle"><solid android:color="#FFF4C6" /><corners android:radius="10dp" /><stroke android:width="1dp" android:color="#E8B63E" /></shape></item>
+</selector>

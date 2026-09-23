@@ -151,7 +151,6 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## 进一步阅读
 
-- [完整实现博客](blog/voice-pipeline-demo.md)
-- [博客封面](blog/voice-pipeline-demo-cover.png)
+- [完整实现博客](https://blog.csdn.net/z_zT_T/article/details/166487468)
 
 博客会继续拆解状态机、资源安装、实时转写、星火 HTTP 请求以及 TTS 播放收尾。README 负责让工程跑起来，代码设计细节以博客和源码为准。
